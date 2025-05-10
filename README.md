@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-This repository contains data and analysis code for a three-phase study assessing middle school students’ awareness, confidence, and susceptibility to phishing attacks. The goal is to measure changes in knowledge and behavior across three distinct phases of intervention and evaluation.
+This repository contains data and analysis code for a three-phase study assessing middle school students’ awareness, confidence, and susceptibility to phishing attacks.
 
 ## Repository Structure
 ```
