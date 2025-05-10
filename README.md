@@ -16,14 +16,10 @@ This repository contains data and analysis code for a three-phase study assessin
 │   └── Compare                # Cross-phase comparison analyses
 ├── Data                       # data files
 │   ├── Crafted_Questions      # Survey question for phase 0-2
-│   └── Export_CSV             # Exported CSV files for each phase
+│   └── Export_CSV             # Exported CSV files for each phase from middle school students
 ├── README.md                  # Project overview 
 └── Team_Revamped_Final_Project.ipynb  # Google Colab notebook with data analysis and visualizations
 ```
-
-## Data Description
-Three CSV files of responses from middle school students, corresponding to each phase of the study.
-
 
 ## License
 University of Texas at El Paso class project only
